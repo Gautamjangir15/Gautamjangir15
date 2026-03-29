@@ -45,14 +45,14 @@ AI-powered healthcare system that predicts diseases and recommends medicines.
 
 ---
 
-### 📄 AI Research Paper Assistant
+### 📄 Documind AI
 
 RAG-based system to interact with PDFs intelligently.
 
-* Chat with documents
+* Chat with PDFs
 * Summarization (page + full doc)
-* Explain selected text
-  👉 https://github.com/gautamjangir15/research-paper-assistant
+* PDF handling controls (play audio, pause, next, prev etc..)
+  👉 https://github.com/Gautamjangir15/documind-ai
 
 ---
 
