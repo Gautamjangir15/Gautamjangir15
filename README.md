@@ -63,7 +63,7 @@ LLM-powered system for automated dataset insights.
 * Upload dataset → get analysis
 * Auto EDA + summaries
 * Natural language queries
-  👉 https://github.com/gautamjangir15/ai-data-analyst
+  👉 https://github.com/Gautamjangir15/datasage-ai
 
 ---
 
