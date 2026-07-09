@@ -1,6 +1,6 @@
 # Hi, I'm Gautam 👋
 
-🚀 Aspiring Data Scientist | ML Engineer | AI System Builder
+🚀 AI System Builder
 
 I build real-world AI systems — from healthcare prediction to intelligent document assistants and data analysis agents.
 
